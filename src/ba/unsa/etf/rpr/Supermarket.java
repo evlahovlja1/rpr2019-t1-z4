@@ -24,7 +24,7 @@ public class Supermarket {
             Artikl a = artikli[i];
 
             if (a.getKod().equals(kod)) {
-                System.arraycopy(artikli, i+1, artikli, i, brojTrenutnihArtikala- i - 1);
+                System.arraycopy(artikli, i+1, artikli, i, artikli.length- i - 1);
                 brojTrenutnihArtikala = brojTrenutnihArtikala - 1;
                 return a;
             }

@@ -24,7 +24,7 @@ public class Korpa {
             Artikl a = artikli[i];
 
             if (a.getKod().equals(kod)) {
-                System.arraycopy(artikli, i+1, artikli, i, trenutniBrojArtikala-i-1);
+                System.arraycopy(artikli, i+1, artikli, i, artikli.length-i-1);
                 trenutniBrojArtikala = trenutniBrojArtikala - 1;
                 return a;
             }
