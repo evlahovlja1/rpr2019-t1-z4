@@ -20,8 +20,14 @@ public class Supermarket {
 
 
     public Artikl izbaciArtiklSaKodom(String kod) {
-        for (Artikl a: artikli) {
-            if ()
+        for (int i = 0; i < brojTrenutnihArtikala; ++i) {
+            Artikl a = artikli[i];
+
+            if (a.getKod().equals(kod)) {
+                System.arraycopy(artikli, i+1, artikli, i, brojTrenutnihArtikala- i - 1);
+                brojTrenutnihArtikala = brojTrenutnihArtikala - 1;
+                return a;
+            }
         }
         return null;
     }
