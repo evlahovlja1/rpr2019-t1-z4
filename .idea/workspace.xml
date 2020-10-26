@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51abc268-d265-477a-bc92-4dcec2480b03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Artikl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Artikl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,28 @@
       <option name="presentableId" value="Default" />
       <updated>1603733944697</updated>
     </task>
+    <task id="LOCAL-00001" summary=".idea">
+      <created>1603734336500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603734336500</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".idea">
+      <created>1603734345293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603734345293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pocetak razvoja klase Supermarket">
+      <created>1603734363822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603734363822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,11 +84,20 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".idea" />
+    <MESSAGE value="pocetak razvoja klase Supermarket" />
+    <option name="LAST_COMMIT_MESSAGE" value="pocetak razvoja klase Supermarket" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-735" y="-364" key="#com.intellij.ide.util.MemberChooser" timestamp="1603734158978">
+    <state x="-1080" y="-410" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603734440235">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state x="-735" y="-364" key="#com.intellij.ide.util.MemberChooser/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603734158978" />
+    <state x="-1080" y="-410" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603734440235" />
+    <state x="-735" y="-364" key="#com.intellij.ide.util.MemberChooser" timestamp="1603734460729">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state x="-735" y="-364" key="#com.intellij.ide.util.MemberChooser/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603734460729" />
     <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup" timestamp="1603734153840">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
