@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51abc268-d265-477a-bc92-4dcec2480b03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Korpa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Korpa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603734942038</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="prepravljen system.arraycopy">
+      <created>1603735188808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603735188808</updated>
+    </task>
+    <task id="LOCAL-00009" summary=".idea">
+      <created>1603735197688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603735197688</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,10 +148,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pocetak razvoja klase Supermarket" />
     <MESSAGE value="osnovna Artikl klasa" />
-    <MESSAGE value=".idea" />
     <MESSAGE value="Korpa klasa gotova" />
     <MESSAGE value="Supermarket klasa gotova" />
-    <option name="LAST_COMMIT_MESSAGE" value="Supermarket klasa gotova" />
+    <MESSAGE value="prepravljen system.arraycopy" />
+    <MESSAGE value=".idea" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1080" y="-410" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603734950845">
@@ -150,6 +163,26 @@
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state x="-735" y="-364" key="#com.intellij.ide.util.MemberChooser/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603734640497" />
+    <state width="1037" height="559" key="GridCell.Tab.0.bottom" timestamp="1603735529922">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="559" key="GridCell.Tab.0.bottom/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529922" />
+    <state width="1037" height="559" key="GridCell.Tab.0.center" timestamp="1603735529922">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="559" key="GridCell.Tab.0.center/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529922" />
+    <state width="1037" height="559" key="GridCell.Tab.0.left" timestamp="1603735529921">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="559" key="GridCell.Tab.0.left/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529921" />
+    <state width="1037" height="559" key="GridCell.Tab.0.right" timestamp="1603735529922">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="559" key="GridCell.Tab.0.right/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529922" />
+    <state x="-948" y="-332" key="Vcs.Push.Dialog.v2" timestamp="1603735211738">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state x="-948" y="-332" key="Vcs.Push.Dialog.v2/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735211738" />
     <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup" timestamp="1603734153840">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
