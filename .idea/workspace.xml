@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51abc268-d265-477a-bc92-4dcec2480b03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/KorpaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/SupermarketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KorpaTest">
+  <component name="RunManager" selected="JUnit.SupermarketTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.Main" />
       <module name="rpr2019-t1-z4" />
@@ -105,8 +105,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SupermarketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr2019-t1-z4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.SupermarketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SupermarketTest" />
         <item itemvalue="JUnit.KorpaTest" />
         <item itemvalue="JUnit.ArtiklTest" />
         <item itemvalue="Application.Main" />
@@ -199,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604338131531</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="KorpaTest klasa gotova">
+      <created>1604338953912</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604338953912</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +246,8 @@
     <MESSAGE value=".idea" />
     <MESSAGE value="Supermarket.dodajArtikl prebaceno na bool radi testova" />
     <MESSAGE value="ArtiklTest klasa gotova" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArtiklTest klasa gotova" />
+    <MESSAGE value="KorpaTest klasa gotova" />
+    <option name="LAST_COMMIT_MESSAGE" value="KorpaTest klasa gotova" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1080" y="-410" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603734950845">
@@ -234,22 +258,22 @@
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state x="-735" y="-364" key="#com.intellij.ide.util.MemberChooser/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603734640497" />
-    <state width="1037" height="222" key="GridCell.Tab.0.bottom" timestamp="1604338865670">
+    <state width="1037" height="222" key="GridCell.Tab.0.bottom" timestamp="1604338883808">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="222" key="GridCell.Tab.0.bottom/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338865670" />
-    <state width="1037" height="222" key="GridCell.Tab.0.center" timestamp="1604338865670">
+    <state width="1037" height="222" key="GridCell.Tab.0.bottom/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338883808" />
+    <state width="1037" height="222" key="GridCell.Tab.0.center" timestamp="1604338883808">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="222" key="GridCell.Tab.0.center/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338865670" />
-    <state width="1037" height="222" key="GridCell.Tab.0.left" timestamp="1604338865669">
+    <state width="1037" height="222" key="GridCell.Tab.0.center/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338883808" />
+    <state width="1037" height="222" key="GridCell.Tab.0.left" timestamp="1604338883808">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="222" key="GridCell.Tab.0.left/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338865669" />
-    <state width="1037" height="222" key="GridCell.Tab.0.right" timestamp="1604338865670">
+    <state width="1037" height="222" key="GridCell.Tab.0.left/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338883808" />
+    <state width="1037" height="222" key="GridCell.Tab.0.right" timestamp="1604338883808">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="222" key="GridCell.Tab.0.right/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338865670" />
+    <state width="1037" height="222" key="GridCell.Tab.0.right/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338883808" />
     <state x="-948" y="-332" key="Vcs.Push.Dialog.v2" timestamp="1604337723101">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
@@ -258,17 +282,17 @@
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state x="-835" y="-174" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604337910544" />
-    <state x="-769" y="-283" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604338110115">
+    <state x="-769" y="-283" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604338968735">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state x="-769" y="-283" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338110115" />
+    <state x="-769" y="-283" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338968735" />
     <state x="-1080" y="-445" key="new project wizard" timestamp="1604309807339">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state x="-1080" y="-445" key="new project wizard/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604309807339" />
-    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup" timestamp="1604338002983">
+    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup" timestamp="1604338992367">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338002983" />
+    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338992367" />
   </component>
 </project>
