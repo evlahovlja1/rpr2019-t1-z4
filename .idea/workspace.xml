@@ -20,13 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51abc268-d265-477a-bc92-4dcec2480b03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/ArtiklTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpr2019-t1-z4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rpr2019-t1-z4.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,10 +45,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ba.unsa.etf.rpr" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArtiklTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.Main" />
       <module name="rpr2019-t1-z4" />
@@ -54,8 +76,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArtiklTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr2019-t1-z4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.ArtiklTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArtiklTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -132,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603735197688</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Supermarket.dodajArtikl prebaceno na bool radi testova">
+      <created>1604337707429</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604337707429</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +199,8 @@
     <MESSAGE value="Supermarket klasa gotova" />
     <MESSAGE value="prepravljen system.arraycopy" />
     <MESSAGE value=".idea" />
-    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
+    <MESSAGE value="Supermarket.dodajArtikl prebaceno na bool radi testova" />
+    <option name="LAST_COMMIT_MESSAGE" value="Supermarket.dodajArtikl prebaceno na bool radi testova" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1080" y="-410" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603734950845">
@@ -181,17 +227,25 @@
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state width="1037" height="222" key="GridCell.Tab.0.right/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604074886295" />
-    <state x="-948" y="-332" key="Vcs.Push.Dialog.v2" timestamp="1603735211738">
+    <state x="-948" y="-332" key="Vcs.Push.Dialog.v2" timestamp="1604337723101">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state x="-948" y="-332" key="Vcs.Push.Dialog.v2/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735211738" />
+    <state x="-948" y="-332" key="Vcs.Push.Dialog.v2/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604337723100" />
+    <state x="-835" y="-174" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604337910544">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state x="-835" y="-174" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604337910544" />
+    <state x="-769" y="-283" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604337919464">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state x="-769" y="-283" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604337919464" />
     <state x="-1080" y="-445" key="new project wizard" timestamp="1604309807339">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state x="-1080" y="-445" key="new project wizard/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604309807339" />
-    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup" timestamp="1603734153840">
+    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup" timestamp="1604338002983">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603734153840" />
+    <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604338002983" />
   </component>
 </project>
