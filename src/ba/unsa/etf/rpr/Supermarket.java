@@ -9,13 +9,14 @@ public class Supermarket {
         return artikli;
     }
 
-    void dodajArtikl(Artikl a) {
+    boolean dodajArtikl(Artikl a) {
         if (brojTrenutnihArtikala == MAX_ARTIKALA) {
-            return;
+            return false;
         }
 
         artikli[brojTrenutnihArtikala] = a;
         brojTrenutnihArtikala = brojTrenutnihArtikala + 1;
+        return true;
     }
 
 

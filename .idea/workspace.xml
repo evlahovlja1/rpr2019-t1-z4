@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51abc268-d265-477a-bc92-4dcec2480b03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +145,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pocetak razvoja klase Supermarket" />
@@ -163,26 +165,30 @@
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state x="-735" y="-364" key="#com.intellij.ide.util.MemberChooser/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603734640497" />
-    <state width="1037" height="559" key="GridCell.Tab.0.bottom" timestamp="1603735529922">
+    <state width="1037" height="222" key="GridCell.Tab.0.bottom" timestamp="1604074886295">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="559" key="GridCell.Tab.0.bottom/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529922" />
-    <state width="1037" height="559" key="GridCell.Tab.0.center" timestamp="1603735529922">
+    <state width="1037" height="222" key="GridCell.Tab.0.bottom/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604074886295" />
+    <state width="1037" height="222" key="GridCell.Tab.0.center" timestamp="1604074886295">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="559" key="GridCell.Tab.0.center/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529922" />
-    <state width="1037" height="559" key="GridCell.Tab.0.left" timestamp="1603735529921">
+    <state width="1037" height="222" key="GridCell.Tab.0.center/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604074886295" />
+    <state width="1037" height="222" key="GridCell.Tab.0.left" timestamp="1604074886295">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="559" key="GridCell.Tab.0.left/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529921" />
-    <state width="1037" height="559" key="GridCell.Tab.0.right" timestamp="1603735529922">
+    <state width="1037" height="222" key="GridCell.Tab.0.left/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604074886295" />
+    <state width="1037" height="222" key="GridCell.Tab.0.right" timestamp="1604074886295">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
-    <state width="1037" height="559" key="GridCell.Tab.0.right/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735529922" />
+    <state width="1037" height="222" key="GridCell.Tab.0.right/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604074886295" />
     <state x="-948" y="-332" key="Vcs.Push.Dialog.v2" timestamp="1603735211738">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
     <state x="-948" y="-332" key="Vcs.Push.Dialog.v2/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1603735211738" />
+    <state x="-1080" y="-445" key="new project wizard" timestamp="1604309807339">
+      <screen x="-1080" y="-1005" width="1080" height="1880" />
+    </state>
+    <state x="-1080" y="-445" key="new project wizard/-1080.-1005.1080.1880/0.0.1600.860@-1080.-1005.1080.1880" timestamp="1604309807339" />
     <state x="-877" y="-570" width="672" height="678" key="search.everywhere.popup" timestamp="1603734153840">
       <screen x="-1080" y="-1005" width="1080" height="1880" />
     </state>
